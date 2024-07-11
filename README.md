@@ -1,6 +1,6 @@
 <h1 align="right">Hi 👋, I'm Isira Adithya Weerasinghe</h1>
 
-![isira-aw2s](https://github.com/isira-aw/isira-aw/assets/173655168/4edaf2be-4737-4a72-a1fc-6607951f5dbe)
+<img src="https://github.com/isira-aw/isira-aw/raw/assets/173655168/4edaf2be-4737-4a72-a1fc-6607951f5dbe" alt="isira-aw2s" style="display: block; margin: 0 auto; max-width: 50%;">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isira-aw&label=Profile%20views&color=0e75b6&style=flat" alt="isira-aw" /> </p>
 
@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **isira.aw@gmail.com**
 ---
-![isira-aw2s](https://github.com/isira-aw/isira-aw/assets/173655168/4edaf2be-4737-4a72-a1fc-6607951f5dbe)
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
