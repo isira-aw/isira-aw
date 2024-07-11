@@ -2,7 +2,7 @@
 
 <section align= "center" >
   
-![isira-aw isira-aw](https://github.com/isira-aw/isira-aw/assets/173655168/d2917466-e450-42ca-9517-f6110e6ea27c)
+![isira-aw isira-aw](https://github.com/isira-aw/isira-aw/assets/173655168/f10454eb-5cf8-4822-84e1-1f3c7a8fad09)
 
 </section>
 
