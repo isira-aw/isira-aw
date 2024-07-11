@@ -3,10 +3,10 @@
 ![isira-aw2s](https://github.com/isira-aw/isira-aw/assets/173655168/8bb3898d-2bed-4da3-ab02-7eb3a0a6e947)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isira-aw&label=Profile%20views&color=0e75b6&style=flat" alt="isira-aw" /> </p>
-
 - 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **isira.aw@gmail.com**
+![isira-aw2s](https://github.com/isira-aw/isira-aw/assets/173655168/8bb3898d-2bed-4da3-ab02-7eb3a0a6e947)
 ---
 <h3 align="center">Connect with me:</h3>
 
