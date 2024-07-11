@@ -1,8 +1,8 @@
 <h1 align="right">Hi 👋, I'm Isira Adithya Weerasinghe</h1>
 
-<section style="text-align: center; max-width: 50%; margin: 0 auto;">
+<section align= "center" >
   
-![isira-aw2s](https://github.com/isira-aw/isira-aw/assets/173655168/8bb3898d-2bed-4da3-ab02-7eb3a0a6e947)
+![isira-aw isira-aw](https://github.com/isira-aw/isira-aw/assets/173655168/d2917466-e450-42ca-9517-f6110e6ea27c)
 
 </section>
 
