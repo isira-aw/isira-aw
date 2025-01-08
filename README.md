@@ -1,6 +1,6 @@
 <section align= "center" >
   
-![gitfor github](https://github.com/user-attachments/assets/b51f0645-8743-4220-9c1c-5b521bb5b7da)
+![gitfor github](https://github.com/user-attachments/assets/400bac8d-41f5-4513-a3f5-b24e8b48c6b1)
 
 </section>
 <h1 align="center">Hi 👋, I'm Isira Adithya Weerasinghe</h1>
